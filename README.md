@@ -11,8 +11,8 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Profile Page                         | https://github.com/aldricmrcr/aldricmrcr                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/aldricmrcr/ppchem/commit/e52cda4c34e78e0d2c623bdd3e4c95998485fb40     
 | 1    | Create a New Branch                         | https://github.com/aldricmrcr/ppchem/tree/new-branch-name                   |
-| 1    | Create a conda environment                  |https://github.com/aldricmrcr/practical-programming-in-chemistry-milestones  |
-| 1    | Fork a Repo                                 | |
+| 1    | Create a conda environment                  | https://github.com/aldricmrcr/ppchem/blob/main/env.yml |
+| 1    | Fork a Repo                                 |https://github.com/aldricmrcr/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 
